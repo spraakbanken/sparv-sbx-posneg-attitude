@@ -6,7 +6,7 @@ short_description:
   swe: "En Sparv-plugin som annoterar objekt som positiv och negativ attityd riktas mot."
   eng: "A Sparv plugin which annotates object of positive or negative attitude."
 type: "analysis"
-task: "Attitude annotation"
+task: "attitude annotation"
 plugin_url: https://github.com/spraakbanken/sbx-sparv-posneg-attitude
 analysis_unit: "token"
 models:
